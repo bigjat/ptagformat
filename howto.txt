@@ -1,0 +1,4 @@
+Instructions:
+1. Place file into folder, with each paragraph denoted as a new line.
+2. Run main.py (either through the command line or by right clicking and hitting "Run as Python Script") and give it the name of the file with the extension.
+3. Program will output file to this folder.
